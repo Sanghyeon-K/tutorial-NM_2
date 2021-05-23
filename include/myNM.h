@@ -20,6 +20,8 @@ Description      : myNM.h
 // New function for assignment
 void tempFunction(int m);
 
+// Function modified
+
 
 // Matrix addition
 extern	Matrix	addMat(Matrix _A, Matrix _B);

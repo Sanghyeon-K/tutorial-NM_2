@@ -12,7 +12,7 @@ Description      : myNM.cpp
 #include "myNM.h"
 
 void tempFunction(int m) {
-
+	printf("Hedllo");
 }
 
 // Matrix addition

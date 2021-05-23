@@ -18,6 +18,9 @@ Description      : NM_MainTemplate.cpp
 
 int main(int argc, char* argv[])
 {
+	// MODIFIED
+	// HELLO ±³¼ö´Ô
+
 	/*	 [¡Ø DO NOT EDIT IT !!!]   Resources file path setting for evaluation	*/
 	std::string path = "C:/NM_data_2021/Assignment" + std::to_string(Assignment) + "/";
 
